@@ -1,7 +1,5 @@
 # Linux & Bash Scripting
 
-**Website:** https://www.edx.org/course/introduction-to-linux
-
 ## Introduction
 
 1. [Basic Terminology & The Boot Process](./Basic%20Terminology.md)
